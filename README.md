@@ -1,4 +1,4 @@
-# KMeans-Exploration
+# Clustering
 
 ## Objective
 The goal of the project is to implement k-means algorithm and compare its performance to other clustering algorithms. 
